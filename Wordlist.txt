@@ -1,0 +1,10 @@
+pineapple
+apple
+pear
+orange
+grapes
+blueberry
+celery
+watermelon
+banana
+tomato
